@@ -30,3 +30,6 @@ While creating this project I learnt about various utilities and jargons of Tail
 
 # Thumbnail
 
+![rode](https://user-images.githubusercontent.com/102028645/188324832-fe198f30-9b81-4148-99ab-a9bb9053ad57.jpg)
+
+
